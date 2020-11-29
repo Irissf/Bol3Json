@@ -1,0 +1,42 @@
+{
+    "coord": {
+        "lon": -8.72,
+        "lat": 42.23
+    },
+    "weather": [{
+            "id": 801,
+            "main": "Clouds",
+            "description": "algo de nubes",
+            "icon": "02d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 291.18,
+        "feels_like": 291.04,
+        "temp_min": 290.15,
+        "temp_max": 292.04,
+        "pressure": 1026,
+        "humidity": 67
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 1,
+        "deg": 0
+    },
+    "clouds": {
+        "all": 20
+    },
+    "dt": 1605020818,
+    "sys": {
+        "type": 1,
+        "id": 6440,
+        "country": "ES",
+        "sunrise": 1604992776,
+        "sunset": 1605028692
+    },
+    "timezone": 3600,
+    "id": 3105976,
+    "name": "Vigo",
+    "cod": 200
+}

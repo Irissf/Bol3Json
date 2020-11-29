@@ -1,0 +1,145 @@
+{
+    "response_code": 0,
+    "results": [{
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Who is the protagonist in the game &quot;The Walking Dead: Season One&quot;?",
+            "correct_answer": "Lee Everett",
+            "incorrect_answers": ["Clementine", "Kenny", "Rick Grimes"]
+        }, {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What snowy mob was added in Minecraft 1.10?",
+            "correct_answer": "Polar bears",
+            "incorrect_answers": ["Eskimos", "Penguins", "Walking TNT"]
+        }, {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "The land of Gotland is located in which European country?",
+            "correct_answer": "Sweden",
+            "incorrect_answers": ["Denmark", "Norway", "Germany"]
+        }, {
+            "category": "Science & Nature",
+            "type": "boolean",
+            "difficulty": "hard",
+            "question": "It was once believed that injecting shark cartilage into people would prevent them from contracting cancer.",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        }, {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which eSports team came first place in The International Dota 2 Championship 2016?",
+            "correct_answer": "Wings Gaming",
+            "incorrect_answers": ["Digital Chaos", "Evil Geniuses", "Fnatic"]
+        }, {
+            "category": "Entertainment: Cartoon & Animations",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "Which of the following films was Don Bluth both the writer, director, and producer for?",
+            "correct_answer": "All Dogs Go To Heaven",
+            "incorrect_answers": ["Titan A.E.", "Anastasia", "The Land Before Time"]
+        }, {
+            "category": "Entertainment: Film",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "The Xenomorph from the science fiction film &quot;Alien&quot; has acidic blood.",
+            "correct_answer": "True",
+            "incorrect_answers": ["False"]
+        }, {
+            "category": "Geography",
+            "type": "boolean",
+            "difficulty": "medium",
+            "question": "&quot;Mongolia&quot; was a part of the now non-existent U.S.S.R.",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
+        }, {
+            "category": "Celebrities",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "What does film maker Dan Bell typically focus his films on?",
+            "correct_answer": "Abandoned Buildings and Dead Malls",
+            "incorrect_answers": ["Historic Landmarks", "Action Films", "Documentaries "]
+        }, {
+            "category": "Science: Computers",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "The NVidia GTX 1080 gets its name because it can only render at a 1920x1080 screen resolution.",
+            "correct_answer": "False",
+            "incorrect_answers": ["True"]
+        }, {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "When was Nintendo&#039;s Virtual Boy released?",
+            "correct_answer": "1995",
+            "incorrect_answers": ["1989", "1997", "1992"]
+        }, {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "What direction does the Statue of Liberty face?",
+            "correct_answer": "Southeast",
+            "incorrect_answers": ["Southwest", "Northwest", "Northeast"]
+        }, {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Of the following space shooter games, which came out first?",
+            "correct_answer": "Space Invaders",
+            "incorrect_answers": ["Galaxian", "Galaga", "Sinistar"]
+        }, {
+            "category": "Entertainment: Video Games",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Aperture Science CEO Cave Johnson is voiced by which American actor?",
+            "correct_answer": "J.K. Simmons",
+            "incorrect_answers": ["Nolan North", "John Patrick Lowrie", "Christopher Lloyd"]
+        }, {
+            "category": "General Knowledge",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "What was Bank of America originally established as?",
+            "correct_answer": "Bank of Italy",
+            "incorrect_answers": ["Bank of Long Island", "Bank of Pennsylvania", "Bank of Charlotte"]
+        }, {
+            "category": "Mythology",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "Which of these mythological creatures is said to be half-man and half-horse?",
+            "correct_answer": "Centaur",
+            "incorrect_answers": ["Minotaur", "Pegasus", "Gorgon"]
+        }, {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The main objective of the German operation &quot;Case Blue&quot; during World War II was originally to capture what?",
+            "correct_answer": "Caucasus",
+            "incorrect_answers": ["Stalingrad", "Crimea", "Voronezh"]
+        }, {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "The Maluku islands (informally known as the Spice Islands) belong to which country?",
+            "correct_answer": "Indonesia",
+            "incorrect_answers": ["Chile", "New Zealand", "Fiji"]
+        }, {
+            "category": "History",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "Who was the last Roman emperor in the Year of Four Emperors (69 AD)?",
+            "correct_answer": "Vespasian",
+            "incorrect_answers": ["Vitellius", "Otho", "Galba"]
+        }, {
+            "category": "Entertainment: Music",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "How many studio albums have the heavy metal band, &#039;Metallica&#039; released in the period between 1983 and 2016?",
+            "correct_answer": "10",
+            "incorrect_answers": ["7", "9", "12"]
+        }
+    ]
+}
